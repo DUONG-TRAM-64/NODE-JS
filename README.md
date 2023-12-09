@@ -1,4 +1,3 @@
 # NODE-JS
 
-hahhaha
-ka
+XIN CHÀO HAHAHA
